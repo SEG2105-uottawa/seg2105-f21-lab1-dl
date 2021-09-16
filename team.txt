@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Victor
 Fatemeh
 Amani
+=======
+Lauren
+>>>>>>> parent of 587516f (adding my name to team.txt)
