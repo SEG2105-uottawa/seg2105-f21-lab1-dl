@@ -1,15 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 Victor
-=======
->>>>>>> parent of dccbbf5 (added Fateme)
 Fatemeh
-=======
 Amani
-<<<<<<< HEAD
-=======
 Lauren
->>>>>>> parent of 587516f (adding my name to team.txt)
-=======
->>>>>>> 474819a623b4bb332a3eb6d0db22ce90bd6553ab
->>>>>>> parent of dccbbf5 (added Fateme)
